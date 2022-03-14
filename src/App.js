@@ -9,7 +9,7 @@ import React, { useEffect, useState } from "react";
 import twitterLogo from "./assets/twitter-logo.svg";
 import myEpicNft from "./utils/MyEpicNFT.json";
 
-const TWITTER_HANDLE = 'unicord",ｷ ﾚ|"';
+const TWITTER_HANDLE = ',ｷ ﾚl';
 const TWITTER_LINK = `https://twitter.com/kii_bmi_N_perm`;
 const OPENSEA_LINK = "";
 const TOTAL_MINT_COUNT = 50;
