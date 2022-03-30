@@ -9,13 +9,13 @@ import React, { useEffect, useState } from "react";
 import twitterLogo from "./assets/twitter-logo.svg";
 import myEpicNft from "./utils/MyEpicNFT.json";
 
-const TWITTER_HANDLE = ',ｷ ﾚl';
+const TWITTER_HANDLE = ',ｷ ﾚ|';
 const TWITTER_LINK = `https://twitter.com/kii_bmi_N_perm`;
 const OPENSEA_LINK = "";
 const TOTAL_MINT_COUNT = 50;
 
 // コトントラクトアドレスをCONTRACT_ADDRESS変数に格納
-const CONTRACT_ADDRESS = "0x70d8c6D82EaDcbF1bc6502987f999E3B09262D7C";
+const CONTRACT_ADDRESS = "0xd6a33d5b6C48990843b6A3d212137C078626F947";
 
 const App = () => {
   // ユーザーのウォレットアドレスを格納するために使用する状態変数を定義します。
